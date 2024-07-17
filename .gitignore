@@ -31,3 +31,6 @@ archive.zip
 
 # virtual enviroments
 cactus/
+
+# envirement
+.env
